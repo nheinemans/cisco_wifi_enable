@@ -1,7 +1,7 @@
 #!/bin/sh
 username=username
 password=password
-networkname=SSID
+networkname=ssid
 authhost=1.1.1.1
 
 if [[ $1 = "off" ]]; then
